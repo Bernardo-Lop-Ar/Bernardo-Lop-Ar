@@ -1,5 +1,6 @@
-## Muito prazer 👋
+## Muito prazer👋
 
+### Me chamo Bernardo, tenho 19 anos
 ### Essa bio reflete um pouco sobre o que sou atualmente e o que procuro ser: 
 
 
