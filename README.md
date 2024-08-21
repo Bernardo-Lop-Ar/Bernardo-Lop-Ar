@@ -1,8 +1,7 @@
 ## Muito prazer 👋
 
-**Bernardo-Lop-Ar/Bernardo-Lop-Ar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Essa bio reflete um pouco sobre o que sou atualmente e o que procuro ser: 
 
-Here are some ideas to get you started:
 
 - 🔭 Atualmente estou trabalhando em uma Copiadora ...
 - 🌱 Estou cursando Desenvolvimento de Sistemas ...
